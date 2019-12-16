@@ -12,5 +12,11 @@ public class Persion {
 
     private String address;
 
+
     private String bran1;
+    private String phone;
+
+    private String bran2;
+
+
 }
