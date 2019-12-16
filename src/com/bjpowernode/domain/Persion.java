@@ -14,7 +14,7 @@ public class Persion {
 
     private String phone;
 
-
+    private String bran2;
 
 
 }
